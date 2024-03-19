@@ -12,10 +12,11 @@ To simulate real-world small fruit monitoring, we collected a dataset of apple d
 
 * **Apple Type:** Fuji
 * **Location:** Jangseong-gun, South Korea
-* **Camera Device:** MX264 CMOS sensing device (acA2240-35uc, Basler AG, Schleswig-Holstein, Germany)
-* **Image Resolution:** (e.g., 1024x768 pixels)
-* **Number of Images:** (e.g., 10,000)
-* **Variations:** (e.g., Include information on lighting conditions, defect severities captured in the dataset, if any)
+* **Sensor Device:** MX264 CMOS sensing device
+* **Camera Device:** acA2240-35uc, Basler AG, Schleswig-Holstein, Germany
+* **Image Resolution:** $2448 \times 2048$ pixels
+* **Number of Images:** 710 images
+* **Variations:** Defect severities captured in the dataset
 
 ## Data Access
 
